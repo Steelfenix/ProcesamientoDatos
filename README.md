@@ -10,5 +10,5 @@ Repositorio utilizado para subir las tareas de la materia Procesamiento de Datos
     - [PDF](https://github.com/Steelfenix/ProcesamientoDatos/blob/main/Tarea%202/Tarea%202%20-%20Jose%20Adrian%20Castillo%20Sierra.pdf)
 
 - Tarea 3: Prediccion y Visualizacion
-    - [Codigo](https://github.com/Steelfenix/ProcesamientoDatos/blob/main/Tarea%202/Tarea%203.ipynb)
-    - [PDF](https://github.com/Steelfenix/ProcesamientoDatos/blob/main/Tarea%202/Tarea%203%20-%20Jose%20Adrian%20Castillo%20Sierra.pdf)
+    - [Codigo](https://github.com/Steelfenix/ProcesamientoDatos/blob/main/Tarea%203/Tarea%203.ipynb)
+    - [PDF](https://github.com/Steelfenix/ProcesamientoDatos/blob/main/Tarea%203/Tarea%203%20-%20Jose%20Adrian%20Castillo%20Sierra.pdf)
